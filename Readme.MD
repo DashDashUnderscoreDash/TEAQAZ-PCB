@@ -10,7 +10,7 @@ The 2u layout positions are forced stabless becuase stabs are dumb
 ```
 - Layout options
 - Images of PCB - Front only for now
-- Firmware - WIP
+- Firmware
 - STEP model of PCB
 - Edgecuts
 ```
