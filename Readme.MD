@@ -15,8 +15,8 @@ The 2u layout positions are forced stabless becuase stabs are dumb
 
 
 ### KLC layout
-![KLC layout]()
+![KLC layout](https://github.com/DashDashUnderscoreDash/TEAQAZ-PCB/blob/main/Images/TEAQAZ%20KLC.jpg)
 
 ### PCB images
-![PCB Front]()
+![PCB Front](https://github.com/DashDashUnderscoreDash/TEAQAZ-PCB/blob/main/Images/TEAQAZ%20PCB%20Front.jpg)
 ![PCB Back]()
