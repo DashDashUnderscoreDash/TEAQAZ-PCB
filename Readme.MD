@@ -4,6 +4,8 @@ TEAQAZ is an STM32 10u uniform stagger QAZ style PCB with leafsprings tadpole mo
 
 The 2u layout positions are forced stabless becuase stabs are dumb
 
+It should have been called TAEQAZ, "Tiny Ass Enter", but I typo'd the file and silk so now it's TEAQAZ I guess
+
 ### In this repo you will find:
 ```
 - Layout options
